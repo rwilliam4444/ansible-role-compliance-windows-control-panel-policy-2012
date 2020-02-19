@@ -3,8 +3,8 @@ galaxy_info:
   author: Richard M. Williams
   role_name: compliance-windows-control-panel-policy-2012
   description: Win 2012 Chck & Remediation for the CIS Control Panel section.
-  company: IBM Corp
-  license: IBM Intellectual Property
+  company: 
+  license: 
   min_ansible_version: 1.8
   platforms:
     - name: Windows
