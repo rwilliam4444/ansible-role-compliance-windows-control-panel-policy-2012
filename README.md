@@ -1,0 +1,1 @@
+# ansible-role-compliance-windows-control-panel-policy-2012
